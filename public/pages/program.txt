@@ -1,0 +1,30 @@
+<h1>Program</h1>
+<p class="notice">TEMPORARY Schedule</p>
+<p>&nbsp;</p>
+<h3>Thu Sept 15th</h3>
+<ul>
+    <li>07.30 PM - Welcome Aperitivo @ <a href="#jackals">Jakals</a></li>
+    <li>10.30 PM - Night Walk in the City</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Fri Sept 16th</h3>
+<ul>
+    <li>02.00 PM - Photo Marathon</li>
+    <li>02.00 PM - Alternative program for the people who don't want to partecipate @ the Photo Marathon (to be defined)</li>
+    <li>08.00 PM - Aperitivo (place to be defined)</li>
+    <li>11.00 PM - Disco (Place to be defined)</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Sat Sept 17th</h3>
+<ul>
+    <li>02.00 PM - Flash Mob (to be defined)</li>
+    <li>05.00 PM - Tram Party (60 or 120 people in one or two trams)</li>
+    <li>05.00 PM - Alternative program for the people who don't want to go on Tram Party (or if there will be not more places on the tram)</li>
+    <li>08.00 PM - Give MI 5 Main Party in private location just for us (we expect more or less 350-500 people)</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Sun Sept 18th</h3>
+<ul>
+    <li>01.00 PM - Picnic in the park</li>
+</ul>
+<p>&nbsp;</p>

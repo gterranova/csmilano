@@ -1,0 +1,14 @@
+RewriteEngine on
+#RewriteOptions Inherit
+
+#Check to see if browser can accept gzip files.
+ReWriteCond %{HTTP:accept-encoding} (gzip.*)
+
+#make sure there's no trailing .gz on the url
+ReWriteCond %{REQUEST_FILENAME} !^.+\.gz$
+
+#check to see if a .gz version of the file exists.
+RewriteCond %{REQUEST_FILENAME}.gz -f
+
+#All conditions met so add .gz to URL filename (invisibly)
+RewriteRule ^(.+) $1.gz [L]

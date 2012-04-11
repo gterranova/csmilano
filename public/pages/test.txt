@@ -1,0 +1,2 @@
+<h1>Pagina interna</h1>
+<p class="notice"><a href="#test2">Test</a></p>

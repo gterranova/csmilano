@@ -1,0 +1,15 @@
+<div class=" column span-6 last box"><img src="images/event.png" class="right" alt="" />
+<h3>Program</h3>
+<p>We are currently planning to have four days of extreme fun from Thursday 15 to Sunday 18 of September.</p>
+<div class="gwt-Hyperlink"><a href="#program">Read more...</a></div>
+</div>
+<div class=" column span-6 last box"><img src="images/users.png" class="right" alt="" />
+<h3>Participants</h3>
+<p>....</p>
+<div class="gwt-Hyperlink"><a href="#meeting">Read more...</a></div>
+</div>
+<div class=" column span-6 last box"><img src="images/faq.png" class="right" alt="" />
+<h3>Questions?</h3>
+<p>Is everything clear? No? Ok, that's just the right page for you. Don't be scared to ask!</p>
+<div class="gwt-Hyperlink"><a href="#faq">Read more...</a></div>
+</div>

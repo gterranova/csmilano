@@ -1,0 +1,36 @@
+<div class=" column span-23 prepend-1 append-1 prepend-top append-bottom last"  style="height: 120px;">
+<div class=" column span-5 colborder">
+<h3>What happened last year</h3>
+<ul>
+    <li><a target="_blank" href="http://www.google.it">link</a></li>
+    <li><a target="_blank" href="http://www.google.it">link</a></li>
+    <li><a target="_blank" href="http://www.google.it">link</a></li>
+</ul>
+</div>
+<div class=" column span-5 colborder">
+<h3>Links to cs</h3>
+<ul>
+    <li><a target="_blank" href="http://www.couchsurfing.org/meetings.html?mid=109902">Meeting Page</a></li>
+    <li><a target="_blank" href="http://www.couchsurfing.org/group.html?gid=3625">Milano Group</a></li>
+    <li><a target="_blank" href="http://www.couchsurfing.org/group.html?gid=5197">Milano SOS Couch</a></li>
+    <li><a target="_blank" href="http://wiki.couchsurfing.org/en/Milan">Milano Wiki</a></li>
+</ul>
+</div>
+<div class=" column span-5 colborder">
+<h3>Arriving in Milan</h3>
+<ul>
+    <li><a target="_blank" href="http://wiki.couchsurfing.org/en/Milan#By_train">By Train</a></li>
+    <li><a target="_blank" href="http://wiki.couchsurfing.org/en/Milan#From_the_airports_to_the_city">By Plane</a></li>
+</ul>
+</div>
+<div class=" column span-5 last">
+<h3>Contacts</h3>
+<ul>
+    <li><a target="_blank" href="#organizers">Organizers</a></li>
+    <li><a target="_blank" href="http://wiki.couchsurfing.org/en/Milan#IN_CASE_OF_EMERGENCY">Emergency numbers</a></li>
+</ul>
+</div>
+</div>
+<div>
+<p class="light small">&nbsp;&nbsp;&nbsp;&copy; 2011, Gianpaolo Terranova</p>
+</div>

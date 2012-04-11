@@ -1,0 +1,72 @@
+/*  
+Theme Name: Filmscenic showcase template
+Theme URI: http://nettuts.com/
+Description: Filmscenic is a showcase-style blog theme that uses the Blueprint CSS grid.
+Version: 0.01
+Author: Raj Kumar Dash
+Author URI: http://www.rajdash.com/
+
+	Filmscenic/ Nettuts
+	 http://nettuts.com/
+
+	The CSS, XHTML and design is released under GPL:
+	http://www.opensource.org/licenses/gpl-license.php
+
+*/
+
+@font-face {
+font-family: 'Optimer';
+src: url('images/optimer_regular.ttf') format("truetypefont");
+}
+/* for IE */
+@font-face {
+font-family: 'Optimer';
+src: url(images/optimer_regular.ttf);
+}
+
+/* Begin Typography & Colors */
+
+body {  
+	background: #ccc;
+	line-height: 125%;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	overflow-y: scroll;
+}  
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Optimer;
+}
+
+#page {  
+	background: #fff;
+/*	-moz-border-radius:6px;
+	-webkit-border-radius:6px;*/
+	-moz-box-shadow:0 0 25px #666;
+	-webkit-box-shadow:0 0 25px #666;
+}  
+
+
+#footer {  
+	color:#666;
+	background: #aaa;
+}  
+
+a img { border:0 }  
+
+a {
+	color:#3366CC;
+	font-weight: bold;
+	text-decoration:none;
+}
+a:hover { color:#666; }  
+
+p, li {
+	margin:0;
+	padding:0;
+	margin-top:5px;
+        font-size: 13px;
+}
+
+

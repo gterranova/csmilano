@@ -1,0 +1,46 @@
+body {  
+	background: #ccc;
+/*	line-height: 125%;*/
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	overflow-y: scroll;
+	font-family: Tahoma, sans-serif;
+}  
+
+h1, h2, h3, h4, h5, h6 {
+	color:#444;
+	font-family: Ubuntu, Tahoma, sans-serif;
+}
+
+#page {  
+	background: #fff;
+/*	-moz-border-radius:6px;
+	-webkit-border-radius:6px;*/
+	-moz-box-shadow:0 0 25px #666;
+	-webkit-box-shadow:0 0 25px #666;
+}  
+
+
+#footer {  
+	color:#666;
+	background: #aaa;
+}  
+
+a img { border:0 }  
+
+a {
+	color:#3366CC;
+	font-weight: bold;
+	text-decoration:none;
+}
+a:hover { color:#666; }  
+
+p, li {
+	margin:0;
+	padding:0;
+	margin-top:5px;
+        font-size: 14px;
+}
+
+
